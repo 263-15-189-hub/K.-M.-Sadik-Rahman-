@@ -1,0 +1,6 @@
+{
+  "name": "AGRIMIND - AI Agricultural Advisory for Bangladesh",
+  "description": "World-Class AI-Powered Agricultural Research, Advisory and Farming Support Platform for Bangladesh. Better Agricultural Decisions Through Verified Knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
